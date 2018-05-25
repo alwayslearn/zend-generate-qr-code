@@ -1,10 +1,10 @@
 <?php
 
-namespace Alex\QrCode\Renderer;
+namespace Library\QrCode\Renderer;
 
-use Alex\QrCode\Basic\BasicRender;
+use Library\QrCode\Basic\BasicRender;
 
-class GoogleChartsRenderer extends BasicRender
+class GoogleChartRenderer extends BasicRender
 {
     // google api generate gr code
     const RENDER_URI = 'http://chart.apis.google.com/chart?';

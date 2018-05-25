@@ -1,6 +1,6 @@
 <?php
 
-namespace Alex\QrCode\Basic;
+namespace Library\QrCode\Basic;
 
 abstract class BasicRender
 {

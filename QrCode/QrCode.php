@@ -1,8 +1,8 @@
 <?php
 
-namespace Alex\QrCode;
+namespace Library\QrCode;
 
-use Alex\QrCode\Basic\BasicRender;
+use Library\QrCode\Basic\BasicRender;
 
 class QrCode
 {
