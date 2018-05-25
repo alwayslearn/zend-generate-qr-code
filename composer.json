@@ -1,0 +1,17 @@
+{
+  "name": "alwayslearn/zend-generate-qr-code",
+  "description": "zend framefork library generate qr code",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Aleksandr Demidko",
+      "email": "demidko777@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.6"
+  },
+  "autoload": {
+    "classmap": ["QrCode"]
+  }
+}
