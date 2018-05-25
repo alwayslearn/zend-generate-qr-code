@@ -1,5 +1,5 @@
 # zend-generate-qr-code
-
+```php
 <?php
 
 use Library\QrCode\QrCode;
