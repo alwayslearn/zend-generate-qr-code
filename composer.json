@@ -1,6 +1,6 @@
 {
   "name": "alwayslearn/zend-generate-qr-code",
-  "description": "zend framefork library generate qr code",
+  "description": "zend framefork library generate qr code. install composer require 'alwayslearn/zend-generate-qr-code @dev'",
   "license": "proprietary",
   "authors": [
     {

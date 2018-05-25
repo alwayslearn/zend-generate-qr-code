@@ -1,4 +1,7 @@
 # zend-generate-qr-code
+install composer require "alwayslearn/zend-generate-qr-code @dev"
+
+
 ```php
 <?php
 
